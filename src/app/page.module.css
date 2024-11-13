@@ -104,4 +104,19 @@
   .editButton {
     background-color: #4F46E5;
   }
+  .viewButton {
+    background-color: #ff4d4d;
+    color: #ffffff;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    margin-right: 0.5rem;
+  }
+  .viewButton {
+    background-color: #4F46E5;
+  }
   
