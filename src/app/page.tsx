@@ -4,7 +4,6 @@ import { addPost, deletePost, updatePost, selectPostById, selectAllPosts } from 
 import styles from "./page.module.css";
 import { useState } from "react";
 
-// Define interfaces for better type safety
 interface Post {
   id: number;
   title: string;
